@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iankurpatel
-- 👀 I’m interested in crypto and nft
+- 👀 I’m interested in crypto and nft assets development
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on '(._.)'
 - 📫 How to reach me iankurpatel@yahoo.com
